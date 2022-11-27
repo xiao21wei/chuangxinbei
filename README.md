@@ -18,6 +18,7 @@ npm run build
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
-##仓库说明：
+
+## 仓库说明：
 
 这是一个暂时搁置的前端代码仓库，等到以后有时间了再来完善。
